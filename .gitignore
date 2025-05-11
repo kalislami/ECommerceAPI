@@ -1,0 +1,54 @@
+## Build artifacts
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## IDE settings
+.vscode/
+.idea/
+
+## Logs
+*.log
+logs/
+log/
+
+## Package managers
+node_modules/
+packages/
+
+## Docker
+*.tar
+*.bak
+*.db
+docker-compose.override.yml
+
+## Secrets
+secrets.json
+firebase-adminsdk.json
+
+## EF Migrations snapshot (optional, if generated temporarily)
+# Migrations/
+
+## Others
+*.swp
+*.tmp
+
+# Rider-specific (if you use JetBrains Rider)
+.idea/
+
+# Visual Studio Code specific
+.vscode/
+
+appsettings.Development.json

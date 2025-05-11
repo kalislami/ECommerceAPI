@@ -1,0 +1,40 @@
+# Binaries and build output
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Docker artifacts
+Dockerfile*
+docker-compose*
+*.dockerfile
+
+# Logs
+*.log
+logs/
+log/
+
+# Node/npm (if applicable)
+node_modules/
