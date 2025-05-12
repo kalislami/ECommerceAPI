@@ -24,7 +24,7 @@ ECommerce API is a RESTful backend for a simple e-commerce application built usi
 
 * [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 * [Docker](https://www.docker.com/)
-* A Firebase account with access to Firebase Storage
+* A Firebase account with access to Firebase Storage (madatory file: firebase-adminsdk.json)
 * A Midtrans Sandbox account ([https://dashboard.midtrans.com/](https://dashboard.midtrans.com/))
 
 ### 🚀 Run with Docker
