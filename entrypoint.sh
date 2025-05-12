@@ -11,3 +11,5 @@ dotnet ef database update --no-build --project ECommerceApi.csproj --startup-pro
 # Menjalankan aplikasi
 echo "Menjalankan aplikasi..."
 dotnet ECommerceApi.dll
+
+#  Pastikan file `entrypoint.sh` menggunakan format **LF** (Linux line endings), bukan **CRLF**.
